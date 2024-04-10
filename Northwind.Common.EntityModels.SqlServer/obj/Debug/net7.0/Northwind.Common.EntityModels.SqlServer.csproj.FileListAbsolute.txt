@@ -1,0 +1,14 @@
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.deps.json
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.runtimeconfig.json
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\bin\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.AssemblyReference.cache
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfoInputs.cache
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.AssemblyInfo.cs
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.csproj.CoreCompileInputs.cache
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\refint\Northwind.Common.EntityModels.SqlServer.dll
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\Northwind.Common.EntityModels.SqlServer.genruntimeconfig.cache
+D:\HetChoRui\ThucTapNgheNghiep\PracticalApps\Northwind.Common.EntityModels.SqlServer\obj\Debug\net7.0\ref\Northwind.Common.EntityModels.SqlServer.dll
